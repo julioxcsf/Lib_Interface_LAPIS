@@ -7,11 +7,8 @@
  * Última Atualização: 10-nov-2024
  * Versão: 1.0
  *
- * ESP-IDF:
- * -
- *
  * Target/Board
- * - Estimulador Elétrico **Nome especifico?**
+ * - Estimulador Elétrico
  *
  * Descrição:
  * - Biblioteca criada para permitir a comunicação UDP e (Wifi)
@@ -25,7 +22,7 @@
  * e uso generalizado no codigo como é apresentado na linha 57 desde arquivo
  *
  * Histórico de Versões:
- * - Versão 1.0 (20-out-2024): Implementação inicial.
+ * - Versão 0.1 (20-out-2024): Implementação inicial.
  */
 
 #ifndef ES_COMMUNICATION_H
